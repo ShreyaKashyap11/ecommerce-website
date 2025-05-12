@@ -1,15 +1,25 @@
-# E-Commerce website html css
+# Responsive eCommerce Website
 
-in this repository you will see an html css template for a cool designed e-commerce website.
+This is a stylish and responsive eCommerce website built using HTML, CSS, and JavaScript. It features a modern UI/UX with sections like product showcases, banners, feature highlights, newsletter signup, and more.
 
-## :heavy_check_mark: useful for who:
 
--   wants to practice your html css skills
 
-## :heavy_check_mark: Authors
 
--   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
 
-## :heavy_check_mark: License
+## ✨ Features
 
-free for everyone to use in any good purposes :heart:
+- **Hero Section** with eye-catching design
+- **Product Collection** with hover effects and ratings
+- **Features Grid** to highlight store services (Free Shipping, Return Policy, etc.)
+- **Banners Section** for promotions and campaigns
+- **Newsletter Signup** styled with background image
+- **Responsive Layout** suitable for all screen sizes
+- **Interactive Navigation Menu** with highlight effect on hover
+
+
+## 🧪 Tech Stack
+
+- **HTML5**: For semantic structure
+- **CSS3**: For design, layout, and responsiveness
+- **JavaScript (Vanilla)**: For navbar toggle and interaction
+- **Google Fonts**: League Spartan
